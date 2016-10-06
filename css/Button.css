@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: lightgray;
+    font-family: serif;
+	font-size: 700%;
+}
+
+
+#myButton {
+	border: none;
+    background-color: #31b109;
+    color: #82f05f;
+	padding: 32px 32px;
+    margin-right: 4%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+    font-family: serif;
+	font-size: 100px;
+}
+
+
+#no {
+	background-color: #f40000;
+	border: none;
+	color: #f7a3a3;
+	padding: 32px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+    font-family: serif;
+	font-size: 100px;
+}
